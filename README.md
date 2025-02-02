@@ -5,6 +5,7 @@
 
 ## 参考リンク
 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
+- [Marpit Markdown](https://marpit.marp.app/markdown)
 - [Markdown でスライドを作れる Marp はいいぞ](https://qiita.com/tomoasleep/items/604107787d92dec4868e)
 - [【VS Code + Marp】Markdownから爆速・自由自在なデザインで](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
 - [Marpを使ってmarkdownでスライド資料を作成する](https://dev.classmethod.jp/articles/make-slides-from-markdown-with-marp/)
